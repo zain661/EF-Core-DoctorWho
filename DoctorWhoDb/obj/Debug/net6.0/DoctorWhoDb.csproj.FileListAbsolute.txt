@@ -1,0 +1,12 @@
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\bin\Debug\net6.0\DoctorWhoDb.deps.json
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\bin\Debug\net6.0\DoctorWhoDb.dll
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\bin\Debug\net6.0\DoctorWhoDb.pdb
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\obj\Debug\net6.0\DoctorWhoDb.csproj.AssemblyReference.cache
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\obj\Debug\net6.0\DoctorWhoDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\obj\Debug\net6.0\DoctorWhoDb.AssemblyInfoInputs.cache
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\obj\Debug\net6.0\DoctorWhoDb.AssemblyInfo.cs
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\obj\Debug\net6.0\DoctorWhoDb.csproj.CoreCompileInputs.cache
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\obj\Debug\net6.0\DoctorWhoDb.dll
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\obj\Debug\net6.0\refint\DoctorWhoDb.dll
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\obj\Debug\net6.0\DoctorWhoDb.pdb
+C:\Users\EBDA3\source\repos\DoctorWho\DoctorWhoDb\obj\Debug\net6.0\ref\DoctorWhoDb.dll
